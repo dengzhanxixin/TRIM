@@ -1,2 +1,1 @@
-# ICML 2025 Workshop on 2nd Open-World Agents
-
+# Towards Reliable and Interactable World Models: Geometry, Physics, Interactivity and Real-World Generalization Agents
